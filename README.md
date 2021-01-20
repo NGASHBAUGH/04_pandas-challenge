@@ -1,5 +1,4 @@
-# Python Pandas Chalenge - Completed for UC Davis's data analytics and visualization Bootcamp
-
+# Python Pandas Challenge - Completed for UC Davis's data analytics and visualization Bootcamp
 
 
 ## Challenge Instructions 
